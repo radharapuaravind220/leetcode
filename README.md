@@ -9,6 +9,7 @@
 | [0189-rotate-array](https://github.com/radharapuaravind220/leetcode/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/radharapuaravind220/leetcode/tree/master/0283-move-zeroes) |
 | [0643-maximum-average-subarray-i](https://github.com/radharapuaravind220/leetcode/tree/master/0643-maximum-average-subarray-i) |
+| [0704-binary-search](https://github.com/radharapuaravind220/leetcode/tree/master/0704-binary-search) |
 ## Hash Table
 |  |
 | ------- |
@@ -41,4 +42,5 @@
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/radharapuaravind220/leetcode/tree/master/0033-search-in-rotated-sorted-array) |
+| [0704-binary-search](https://github.com/radharapuaravind220/leetcode/tree/master/0704-binary-search) |
 <!---LeetCode Topics End-->
