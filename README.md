@@ -33,6 +33,7 @@
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/radharapuaravind220/leetcode/tree/master/0009-palindrome-number) |
+| [0050-powx-n](https://github.com/radharapuaravind220/leetcode/tree/master/0050-powx-n) |
 | [0189-rotate-array](https://github.com/radharapuaravind220/leetcode/tree/master/0189-rotate-array) |
 ## String
 |  |
@@ -130,4 +131,8 @@
 |  |
 | ------- |
 | [0101-symmetric-tree](https://github.com/radharapuaravind220/leetcode/tree/master/0101-symmetric-tree) |
+## Recursion
+|  |
+| ------- |
+| [0050-powx-n](https://github.com/radharapuaravind220/leetcode/tree/master/0050-powx-n) |
 <!---LeetCode Topics End-->
