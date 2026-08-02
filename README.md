@@ -143,6 +143,7 @@
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/radharapuaravind220/leetcode/tree/master/0050-powx-n) |
+| [0206-reverse-linked-list](https://github.com/radharapuaravind220/leetcode/tree/master/0206-reverse-linked-list) |
 | [0509-fibonacci-number](https://github.com/radharapuaravind220/leetcode/tree/master/0509-fibonacci-number) |
 ## Memoization
 |  |
@@ -157,4 +158,8 @@
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/radharapuaravind220/leetcode/tree/master/0004-median-of-two-sorted-arrays) |
+## Linked List
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/radharapuaravind220/leetcode/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
