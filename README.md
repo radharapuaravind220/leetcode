@@ -17,6 +17,7 @@
 | [0209-minimum-size-subarray-sum](https://github.com/radharapuaravind220/leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0239-sliding-window-maximum](https://github.com/radharapuaravind220/leetcode/tree/master/0239-sliding-window-maximum) |
 | [0283-move-zeroes](https://github.com/radharapuaravind220/leetcode/tree/master/0283-move-zeroes) |
+| [0503-next-greater-element-ii](https://github.com/radharapuaravind220/leetcode/tree/master/0503-next-greater-element-ii) |
 | [0643-maximum-average-subarray-i](https://github.com/radharapuaravind220/leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0704-binary-search](https://github.com/radharapuaravind220/leetcode/tree/master/0704-binary-search) |
 | [0713-subarray-product-less-than-k](https://github.com/radharapuaravind220/leetcode/tree/master/0713-subarray-product-less-than-k) |
@@ -49,6 +50,7 @@
 | ------- |
 | [0020-valid-parentheses](https://github.com/radharapuaravind220/leetcode/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/radharapuaravind220/leetcode/tree/master/0042-trapping-rain-water) |
+| [0503-next-greater-element-ii](https://github.com/radharapuaravind220/leetcode/tree/master/0503-next-greater-element-ii) |
 ## Two Pointers
 |  |
 | ------- |
@@ -100,6 +102,7 @@
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/radharapuaravind220/leetcode/tree/master/0042-trapping-rain-water) |
+| [0503-next-greater-element-ii](https://github.com/radharapuaravind220/leetcode/tree/master/0503-next-greater-element-ii) |
 ## Prefix Sum
 |  |
 | ------- |
